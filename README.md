@@ -34,6 +34,6 @@ http://task-manager-app-vty.vercel.app
 
 
 🖼️ Screenshots
-![Screenshot 1](screenshots/ss1.png)
-![Screenshot 2](screenshots/ss2.png)
-![Screenshot 3](screenshots/ss3.png)
+![Screenshot 1](Screenshot/ss1.png)
+![Screenshot 2](Screenshot/ss2.png)
+![Screenshot 3](Screenshot/ss3.png)
